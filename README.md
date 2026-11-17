@@ -1,5 +1,7 @@
 # AI 起名平台
 
+在线地址：https://ai-name-platform-rho.vercel.app
+
 流式输出 · 多模型切换（豆包 / DeepSeek / 通义千问 / Kimi）· Supabase 历史记录
 
 ## 目录结构
