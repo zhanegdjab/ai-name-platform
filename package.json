@@ -1,0 +1,14 @@
+{
+  "name": "ai-name-platform",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI 起名平台：流式输出 · 多模型切换 · Supabase 历史记录",
+  "scripts": {
+    "dev": "node dev-server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "dotenv": "^16.4.5"
+  }
+}
